@@ -16,7 +16,7 @@ Project Features:
 
 Static Quadtree:
 
-- Constructs a quadtree from a dataset (PQuad.txt).
+- Constructs a quadtree from a dataset (dataset.txt).
 - Calculates tree height and dataset spread.
 
 Approximate Nearest Neighbor Queries:
