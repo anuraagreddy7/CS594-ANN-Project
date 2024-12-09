@@ -37,22 +37,22 @@ Experimental Analysis:
 
 Results:
 
-Static Quadtree: Construction time, tree height, and spread analysis.
+- Static Quadtree: Construction time, tree height, and spread analysis.
 
-Approximation Analysis: Trade-offs between ε values and query accuracy.
+- Approximation Analysis: Trade-offs between ε values and query accuracy.
 
-Dynamic Operations: Impact of deletions and insertions on query performance.
+- Dynamic Operations: Impact of deletions and insertions on query performance.
 
-Sample figures and metrics are available in the results/figures folder.
+- Sample figures and metrics are available in the results/figures folder.
 
 
 References:
 
-Erickson, J. Static to Dynamic Data Structures.
+- Erickson, J. Static to Dynamic Data Structures.
 
-Arya, S., Mount, D. M., et al. (1998). An Optimal Algorithm for Approximate Nearest Neighbor Searching in Fixed Dimensions.
+- Arya, S., Mount, D. M., et al. (1998). An Optimal Algorithm for Approximate Nearest Neighbor Searching in Fixed Dimensions.
 
-Samet, H. (2006). Foundations of Multidimensional and Metric Data Structures.
+- Samet, H. (2006). Foundations of Multidimensional and Metric Data Structures.
 
 
 Contributors:
