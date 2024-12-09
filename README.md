@@ -44,3 +44,23 @@ Approximation Analysis: Trade-offs between ε values and query accuracy.
 Dynamic Operations: Impact of deletions and insertions on query performance.
 
 Sample figures and metrics are available in the results/figures folder.
+
+
+References:
+
+Erickson, J. Static to Dynamic Data Structures.
+
+Arya, S., Mount, D. M., et al. (1998). An Optimal Algorithm for Approximate Nearest Neighbor Searching in Fixed Dimensions.
+
+Samet, H. (2006). Foundations of Multidimensional and Metric Data Structures.
+
+
+Contributors:
+
+Anuraag Reddy Kommareddy (UIN – 668011844)
+
+Arthi Aneel (UIN – 668779590)
+
+Abhishikth Pammi (UIN – 674258235)
+
+
