@@ -43,16 +43,9 @@ Results:
 
 - Dynamic Operations: Impact of deletions and insertions on query performance.
 
-- Sample figures and metrics are available in the results/figures folder.
+- The outputs and graphs are available in the results/graphs folder.
 
 
-References:
-
-- Erickson, J. Static to Dynamic Data Structures.
-
-- Arya, S., Mount, D. M., et al. (1998). An Optimal Algorithm for Approximate Nearest Neighbor Searching in Fixed Dimensions.
-
-- Samet, H. (2006). Foundations of Multidimensional and Metric Data Structures.
 
 
 Contributors:
