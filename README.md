@@ -1,7 +1,13 @@
 # CS594-ANN-Project
 " Implementation of Geometric Data Structures "
 
-
+Usage:
+* Clone the repository
+* Ensure Python 3.x and required libraries (numpy, matplotlib) are installed
+* Place dataset.txt in the project directory
+* Run main.py to execute all experiments
+* Results and graphs will be generated in results/graphs folder
+  
 Overview:
 
 This repository contains the code implementation for the CS594 project, focusing on Approximate Nearest Neighbor (ANN) queries using quadtree data structures. The project involves:
